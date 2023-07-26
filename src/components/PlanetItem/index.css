@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.slider-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  padding: 40px;
+  color: white;
+}
+
+.head {
+  text-align: center;
+  color: #05acff;
+}
+
+.image {
+  height: 60%;
+  width: 60%;
+}
+
+.cont1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
